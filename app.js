@@ -6,7 +6,7 @@ const atletas = [
     { nome: "Daniel Oliveira", esporte: "Atletismo", descricao: "Corredor de maratonas e campeonatos internacionais." }
 ];
 
-// Função que pesquisa atletas pelo nome
+ Função que pesquisa atletas pelo nome
 function pesquisarAtleta() {
     const input = document.querySelector('input');
     const resultadosContainer = document.querySelector('.resultados-pesquisa');
@@ -42,4 +42,5 @@ function pesquisarAtleta() {
 
 // Adiciona um evento ao botão de pesquisa
 const botaoPesquisar = document.querySelector('button');
-botaoPesquisar.addEventListener('click', pesquisarAtleta);
+botaoPesquisar.addEventListener('click', pesquisarAtleta);*/
+
